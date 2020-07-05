@@ -21,7 +21,8 @@
       "name": "products",
       "databaseName": "foxdart-catalog",
       "collectionName": "products",
-      "connectionStringSetting": "foxdartcatalog_DOCUMENTDB"
+      "connectionStringSetting": "foxdartcatalog_DOCUMENTDB",
+      "id":"{Query.id}"
     }
   ]
 }
